@@ -18,5 +18,6 @@ export const SidebarWrapper = ({ children }: WrapperProps) => {
     >
       {children}
     </aside>
+    
   );
 };
